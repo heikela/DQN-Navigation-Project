@@ -62,4 +62,4 @@ These can be installed with pip using the supplied requirements.txt file in the 
 
 ## How to run this code
 
-The code to define and train the agent is included in the interactive Python notebook [report.ipynb](report.ipynb). To train the model from scratch, execute each code cell in the notebook in order. To evaluate a pre-trained model, execute a the cell under the heading "Load a successfully trained model", and continue with any desired evaluation.
+The code to define and train the agent is included in the interactive Python notebook [Report.ipynb](Report.ipynb). To train the model from scratch, execute each code cell in the notebook in order. To evaluate a pre-trained model, create an agent and replace network weights with ones loaded from [checkpoint.pth](checkpoint.pth).
